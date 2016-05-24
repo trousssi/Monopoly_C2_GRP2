@@ -1,8 +1,6 @@
 package Jeu;
 
 public class Gare extends Carreau {
-	private int prix;
-	private Joueur proprietaire;
 
 	public void action(Joueur aJ) {
 		throw new UnsupportedOperationException();
